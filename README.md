@@ -3,5 +3,5 @@ Programa en Python para validar la seccion "Datos de Identificación del Contrib
 
 
 
-![Formato de constancia fiscal valido](ConstanciaFiscal/blob/main/constanciaFiscal.png "Formato de constancia fiscal valido")
+![Formato de constancia fiscal valido](https://github.com/azcue/ConstanciaFiscal/blob/main/constanciaFiscal.png "Formato de constancia fiscal valido")
 https://github.com/azcue/ConstanciaFiscal/blob/main/constanciaFiscal.png?raw=true
