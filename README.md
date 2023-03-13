@@ -11,17 +11,17 @@ Programa en Python para validar la seccion "Datos de Identificación del Contrib
   
 ## ¿Por que hacer este programa?
 
-  si trabajs en una empresa donde tienes que validar no uno si no varias contancias fiscales, esa validacion manual puede conllevar a errores o aumento de 
-  tiempo en la actividad por revizar cada constancia.
+  si trabajas con muchas altas de empleado donde tienes que validar no uno si no varias contancias fiscales, esa validacion manual puede conllevar a 
+  errores o aumento en el tiempo de la actividad por revizar cada constancia.
 
 ## ¿Que ventajas tiene?
 
-  Aumento de productividad en las validaciones disminucion de tiempo y disminución de errores al realizar las validaciones manualmente.
+  Aumento de productividad en las validaciones, disminucion de tiempo y disminución de errores en las validaciones.
 
 
 ## ¿Que información valida?
 
-  En esta primera version valida los siguientes campos: RFC, CURP, Nombre, Primer apellido, Segundo apellido
+  En esta primera versión valida los siguientes campos: RFC, CURP, Nombre, Primer apellido, Segundo apellido
  
 ## ¿Como lo hace?  
 
@@ -35,7 +35,10 @@ Programa en Python para validar la seccion "Datos de Identificación del Contrib
 ## ¿como lo uso?
 
   en este repositorio solo esta el codigo fuente en python para adaptarlo a sus necesidades, para los que no son programadores, se puede acceder a este link para 
-  descargarlo y empezar a usarlo.
+  descargarlo y empezar a usarlo:
+  
+    https://drive.google.com/file/d/1Y9nxFbvkWDvJaPVnPbL7wNzV58A3eZGg/view?usp=sharing
+
 
 
 Formato valido:
@@ -43,6 +46,4 @@ Formato valido:
   <img src="https://github.com/azcue/ConstanciaFiscal/blob/main/constanciaFiscal.png" width="50%" heigth="50%">
 </p>
 
-
-link para descargar el programa: 
 
