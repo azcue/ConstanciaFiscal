@@ -39,6 +39,12 @@ Programa en Python para validar la seccion "Datos de Identificación del Contrib
   
     https://drive.google.com/file/d/1Y9nxFbvkWDvJaPVnPbL7wNzV58A3eZGg/view?usp=sharing
 
+  Una ves descargado solo se debe agregar en la carpeta "files" los archivos que se deben validar pueden existir los archivos pdf o carpetas que contiene 
+  uno o mas archivos, concidera que en archivo "config.ini" en el prametro "texto_buscar_archivo_a_comparar" por default especifica que solo validará todos
+  los archivos pdf que en su nombre del archivo tengan la palabra "sat", pero se puede cambiar si asi lo desea.
+  
+  ya que se tenga los archivos a validar y se cumple con la palabra clave que se encuentra en la configuración, ejecutar "valida_constanciaFiscal.exe" 
+
 
 
 Formato valido:
