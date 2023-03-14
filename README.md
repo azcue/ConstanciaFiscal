@@ -39,13 +39,23 @@ Programa en Python para validar la seccion "Datos de Identificación del Contrib
   
     https://drive.google.com/file/d/1Y9nxFbvkWDvJaPVnPbL7wNzV58A3eZGg/view?usp=sharing
 
-  Una ves descargado solo se debe agregar en la carpeta "files" los archivos que se deben validar pueden existir los archivos pdf o carpetas que contiene 
-  uno o mas archivos, concidera que en archivo "config.ini" en el prametro "texto_buscar_archivo_a_comparar" por default especifica que solo validará todos
-  los archivos pdf que en su nombre del archivo tengan la palabra "sat", pero se puede cambiar si asi lo desea.
+  Una ves descargado solo se debe agregar en la carpeta "files" los archivos que se deben validar en una carpeta con el nombre que se desee o pueden existir uno 
+  o mas carpetas que contiengan los archivos pdf, concidera que en el archivo "config.ini", en el parametro "texto_buscar_archivo_a_comparar" por default 
+  especifica que solo validará todos los archivos tengan en el nombre la palabra "sat", pero se puede cambiar si asi lo desea.
   
   ya que se tenga los archivos a validar y se cumple con la palabra clave que se encuentra en la configuración, ejecutar "valida_constanciaFiscal.exe" 
 
-
+  ejemplo de validacion de una carpeta con varios archivos que cumple la regla que el el nombre de archivo tengan la palabra sat y sean pdf:
+  
+  <p align="center">
+  <img src="https://github.com/azcue/ConstanciaFiscal/blob/main/constanciaFiscal.png" width="50%" heigth="50%">
+  </p>  
+  
+  ejemplo de validacion de varias carpeta con archivos que cumple la regla que el el nombre de archivo tengan la palabra sat y sean pdf:
+  
+  <p align="center">
+  <img src="https://github.com/azcue/ConstanciaFiscal/blob/main/constanciaFiscal.png" width="50%" heigth="50%">
+  </p>
 
 Formato valido:
 <p align="center">
