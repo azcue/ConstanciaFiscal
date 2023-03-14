@@ -48,13 +48,13 @@ Programa en Python para validar la seccion "Datos de Identificación del Contrib
   ejemplo de validacion de una carpeta con varios archivos que cumple la regla que el el nombre de archivo tengan la palabra sat y sean pdf:
   
   <p align="center">
-  <img src="https://github.com/azcue/ConstanciaFiscal/blob/main/constanciaFiscal.png" width="50%" heigth="50%">
+  <img src="https://github.com/azcue/ConstanciaFiscal/blob/main/procreso0.PNG" width="50%" heigth="50%">
   </p>  
   
   ejemplo de validacion de varias carpeta con archivos que cumple la regla que el el nombre de archivo tengan la palabra sat y sean pdf:
   
   <p align="center">
-  <img src="https://github.com/azcue/ConstanciaFiscal/blob/main/constanciaFiscal.png" width="50%" heigth="50%">
+  <img src="https://github.com/azcue/ConstanciaFiscal/blob/main/proceso1.PNG" width="50%" heigth="50%">
   </p>
 
 Formato valido:
